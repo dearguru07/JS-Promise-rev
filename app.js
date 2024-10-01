@@ -62,8 +62,12 @@
 // }
 
 
-async function Download(){
-   let data= await fetch("https://www.swiggy.com/dapi/restaurants/list/v5?lat=13.0445612&lng=77.57268839999999&is-seo-homepage-enabled=true&page_type=DESKTOP_WEB_LISTING")
-   let originaData=await data.json()
-   console.log(originaData)   
-}
+// async function Download(){
+//    let data= await fetch("https://www.swiggy.com/dapi/restaurants/list/v5?lat=13.0445612&lng=77.57268839999999&is-seo-homepage-enabled=true&page_type=DESKTOP_WEB_LISTING")
+//    let originaData=await data.json()
+//    console.log(originaData)   
+// }
+
+
+// a=20
+// if a>20?:""
